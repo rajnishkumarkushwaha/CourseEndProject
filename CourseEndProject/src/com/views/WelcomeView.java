@@ -10,7 +10,7 @@ import java.util.InputMismatchException;
 public class WelcomeView implements Views{
 
 private String welcomeText = "Virtual__Key__Repository";
-private String developerText = "Developer : Mohd Anas Ansari";
+private String developerText = "Developer : Rajnish Kumar Kushwaha";
 
 private ArrayList<String> options = new ArrayList<String>();
 
